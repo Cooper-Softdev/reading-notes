@@ -7,7 +7,7 @@ I believe a *growth mindset* is the belief that one's *skills can be developed*,
 
 > “Sucking at something is the first step to being sorta good at something.”
 >    
->   ― Jake the Dog
+>   ― Jake the Dog[^1]
 
 # Things to help stay in growth mindset -- Identify Triggers
 
@@ -19,4 +19,4 @@ I believe a *growth mindset* is the belief that one's *skills can be developed*,
 
   [I'm Cooper](https://github.com/Cooper-Softdev), an air traffic controller with the FAA. I started as a controller in the Army, and I've been with the FAA for almost 7 years now. I've got a plethora of hobbies, music and guitar, mountaing biking, sport bikes, photography, and [dog mushing](https://imgur.com/a/bpJ8ZgA) to keep this list short.
   
-  
+[^1]: Just proving I can add a footnote.
