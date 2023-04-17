@@ -11,8 +11,12 @@ I believe a *growth mindset* is the belief that one's *skills can be developed*,
 
 # Things to help stay in growth mindset -- Identify Triggers
 
-  - Try not to allow yourself to divert attention when encountering an obstacle. Step back when you're noticing that and start again at the beginning after a small break.
-  - Try not to allow criticism to snowball your efforts into self-doubt, or become defensive.
+  - Try not to allow yourself to divert attention when encountering an obstacle. Don't allow your mistakes to snowball into a disaster.
+  - Try not to allow criticism to hinder your efforts into self-doubt, or become defensive.
   - Try not to let someone elses success hinder your own. We all learn at a different pace, but the end results are statistically the same.
 
+## Self Introduction
 
+  [I'm Cooper](https://github.com/Cooper-Softdev), an air traffic controller with the FAA. I started as a controller in the Army, and I've been with the FAA for almost 7 years now. I've got a plethora of hobbies, music and guitar, mountaing biking, sport bikes, photography, and [dog mushing](https://imgur.com/a/bpJ8ZgA) to keep this list short.
+  
+  
