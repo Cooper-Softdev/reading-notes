@@ -4,6 +4,8 @@
 
   [I'm Cooper](https://github.com/Cooper-Softdev), an air traffic controller with the FAA. I started as a controller in the Army, and I've been with the FAA for almost 7 years now. I've got a plethora of hobbies, music and guitar, mountaing biking, sport bikes, photography, and [dog mushing](https://imgur.com/a/bpJ8ZgA) to keep this list short.
 
+  This page should just showcase things I've learned so far, and serves as a reference for myself to return back and refresh my memory.
+
 ## Table of Contents
 
 ### Code 102 Reading Notes
