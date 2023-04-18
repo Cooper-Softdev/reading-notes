@@ -1,6 +1,6 @@
-# More notes
+# Text Editor vs Code-specific editor vs IDE
 
-## Text Editor vs Code-specific editor vs IDE
+## Note Entry
 
 A regular text editor is just a place to put text into a document, which may be formatted in Markup syntax or almost
 any other programming language. Features will be quite slim, they're meant to be lightweight and simple.
@@ -12,7 +12,7 @@ files and keep them all separated from each other, including being able to save 
 An IDE is a full enviroment with many of the tools in one place for even more aspects regarding coding. Things like debuggers
 to highlight logic errors, a compiler to process your code and package it together. And a more robust file management system.
 
-## Questions
+## Questions and Answers
 
   1. Important features of a text editor are
       - code completion
@@ -29,7 +29,7 @@ to highlight logic errors, a compiler to process your code and package it togeth
                 like the name you wish the directory to be called.
       - touch : The promp for making a file, follow this with the name of the file,
                 the file will have the path of your pwd.
-                
+
   3. Explain the following.
       - cd projects                  : change directory into the "projects" directory.
       - mkdir new-project            : makes a new directory and names it "new-project".
