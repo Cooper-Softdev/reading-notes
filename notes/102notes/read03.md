@@ -27,7 +27,7 @@ to start editing the files within the repository.
 
 4.What is the command to take a snapshot of changed files?
 
-- git commit
+- git commit.
 
 5.What is the command ot send your changed files to Github?
 
