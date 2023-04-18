@@ -4,7 +4,7 @@
  
  ## Questions and answers
  
-  2. So why do we use markdown?
+ 2. So why do we use markdown?
      - Markdown is an industry standard and used by everyone, so you know it will be supported by almost any text editor. Since it's plaintext it is small in terms of memory size, which is good for loading things quickly over the internet or storing a lot of text with a small amount of memory.
 
  3. The heading symbol for MD is # . 
