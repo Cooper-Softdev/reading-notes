@@ -6,6 +6,8 @@
 
   This page should just showcase things I've learned so far, and serves as a reference for myself to return back and refresh my memory.
 
+  [Link to Ice Cream webpage](/index.html)
+
 ## Table of Contents
 
 ### Code 102 Reading Notes
