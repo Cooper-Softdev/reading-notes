@@ -14,7 +14,7 @@ CSS is for stylizing how HTML elements look within the browser viewport. CSS doe
 
 -CSS can be in-line within the .html file. As you write your html elements in the body, divs and p can have CSS in the same written line defining its color or presentation. This may be appropriate for small single page websites but can quickly become a nightmare to edit or make changes to if the project scales larger.
 
-3. to make a <p> element red you can use 
+3. to make a p element red you can use 
 
 >`p {
 >    color: red;
