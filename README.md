@@ -4,9 +4,13 @@
 
 This is a basic site with links to my reading notes on various subjects and the projects I've worked on in class as I work my way through the curriculum.
 
+- [Github](https://github.com/Cooper-Softdev)
+- [LinkedIn](https://www.linkedin.com/in/dylan-cooper-400636212/)
+- [Resume](https://docs.google.com/document/d/1x_nCQI8UXG2jZYgxAptOMcLG9DqWMjBBW10XsyG9IDU/edit?usp=sharing)
+
 # Table of Contents
 
-## 1. Code 102 - Intro to Software Development
+## Code 102 - Intro to Software Development
 
 - [Class 01 notes][102/01]
 - [Class 02 notes][102/02]
@@ -18,7 +22,7 @@ This is a basic site with links to my reading notes on various subjects and the 
 - [Class 08 notes][102/08]
 - [Website Project](https://cooper-softdev.github.io/lab04/)
 
-## 2. Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
 
 - [Class 01 notes][201/01]
 - [Class 02 notes][201/02]
@@ -36,9 +40,13 @@ This is a basic site with links to my reading notes on various subjects and the 
 - [Class 14 notes][201/14]
 - [Class 15 notes][201/15]
 
-## 3. Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
-## 4. Code 401 - Advanced Software Development
+- ### **_Placeholder_**
+
+## Code 401 - Advanced Software Development
+
+- ### **_Placeholder_**
 
 [102/01]: notes/102notes/read01.md
 [102/02]: notes/102notes/read02.md
