@@ -7,6 +7,7 @@ This is a basic site with links to my reading notes on various subjects and the 
 - [Github](https://github.com/Cooper-Softdev)
 - [LinkedIn](https://www.linkedin.com/in/dylan-cooper-400636212/)
 - [Resume](https://docs.google.com/document/d/1x_nCQI8UXG2jZYgxAptOMcLG9DqWMjBBW10XsyG9IDU/edit?usp=sharing)
+- [Slack@CodeFellows](https://codefellow.slack.com/team/U053RQSMWKA)
 
 # Table of Contents
 
@@ -24,6 +25,7 @@ This is a basic site with links to my reading notes on various subjects and the 
 
 ## Code 201 - Foundations of Software Development
 
+- [201 prereq notes][201/00]
 - [Class 01 notes][201/01]
 - [Class 02 notes][201/02]
 - [Class 03 notes][201/03]
@@ -56,6 +58,7 @@ This is a basic site with links to my reading notes on various subjects and the 
 [102/06]: notes/102notes/read06.md
 [102/07]: notes/102notes/read07.md
 [102/08]: notes/102notes/read08.md
+[201/00]: notes/201notes/prereq.md
 [201/01]: notes/201notes/read15.md
 [201/02]: notes/201notes/read14.md
 [201/03]: notes/201notes/read13.md
