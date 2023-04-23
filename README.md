@@ -1,43 +1,44 @@
-# Journal for Code Fellows
+# Reading Notes
 
-## Self Introduction
+## Description
 
-  [I'm Cooper](https://github.com/Cooper-Softdev), an air traffic controller with the FAA. I started as a controller in the Army, and I've been with the FAA for almost 7 years now. I've got a plethora of hobbies, music and guitar, mountaing biking, sport bikes, photography, and [dog mushing](https://imgur.com/a/bpJ8ZgA) to keep this list short.
+This is a basic site with links to my reading notes on various subjects and the projects I've worked on in class as I work my way through the curriculum.
 
-  This page should just showcase things I've learned so far, and serves as a reference for myself to return back and refresh my memory.
+# Table of Contents
 
-  [Link to Ice Cream webpage](https://cooper-softdev.github.io/lab04/)
+## 1. Code 102 - Intro to Software Development
 
-## Table of Contents
+- [Class 01 notes][102/01]
+- [Class 02 notes][102/02]
+- [Class 03 notes][102/03]
+- [Class 04 notes][102/04]
+- [Class 05 notes][102/05]
+- [Class 06 notes][102/06]
+- [Class 07 notes][102/07]
+- [Class 08 notes][102/08]
+- [Website Project](https://cooper-softdev.github.io/lab04/)
 
-### Code 102 Reading Notes
+## 2. Code 201 - Foundations of Software Development
 
-- [01 notes][102/01]
-- [02 notes][102/02]
-- [03 notes][102/03]
-- [04 notes][102/04]
-- [05 notes][102/05]
-- [06 notes][102/06]
-- [07 notes][102/07]
-- [08 notes][102/08]
+- [Class 01 notes][201/01]
+- [Class 02 notes][201/02]
+- [Class 03 notes][201/03]
+- [Class 04 notes][201/04]
+- [Class 05 notes][201/05]
+- [Class 06 notes][201/06]
+- [Class 07 notes][201/07]
+- [Class 08 notes][201/08]
+- [Class 09 notes][201/09]
+- [Class 10 notes][201/10]
+- [Class 11 notes][201/11]
+- [Class 12 notes][201/12]
+- [Class 13 notes][201/13]
+- [Class 14 notes][201/14]
+- [Class 15 notes][201/15]
 
-### Code 201 Reading Notes
+## 3. Code 301 - Intermediate Software Development
 
-- [01 notes][201/01]
-- [02 notes][201/02]
-- [03 notes][201/03]
-- [04 notes][201/04]
-- [05 notes][201/05]
-- [06 notes][201/06]
-- [07 notes][201/07]
-- [08 notes][201/08]
-- [09 notes][201/09]
-- [10 notes][201/10]
-- [11 notes][201/11]
-- [12 notes][201/12]
-- [13 notes][201/13]
-- [14 notes][201/14]
-- [15 notes][201/15]
+## 4. Code 401 - Advanced Software Development
 
 [102/01]: notes/102notes/read01.md
 [102/02]: notes/102notes/read02.md
