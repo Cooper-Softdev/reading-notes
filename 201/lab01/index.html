@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Class 1 lab</title>
+    <!-- CSS-->
+    <style>
+      h1 {
+        background-color: #f194b8;
+        text-align: center;
+      }
+      .questions {
+        display: flex;
+        justify-content: space-around;
+        border: 5px solid gray;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Lab 01</h1>
+      <nav></nav>
+    </header>
+    <main>
+      <div class="questions">
+        <p style="background-color: #f8b8d0;">What is your name?</p>
+        <p style="background-color: #b3c7f7;">How old are you?</p>
+        <p style="background-color: #cfebb6;">What is your current job?</p>
+        <p style="background-color: #b9e192;">What do you want to be when you grow up?</p>
+      </div>
+    </main>
+    <footer>Cuppyrite - Cooper 2023</footer>
+    <script>
+      console.log("Hello World!... nosey one aren't ya? Get out of here.");
+
+      let q1Response = prompt("What is your name?");
+      alert("Welcome to my site " + q1Response + "!");
+
+      let q2Response = prompt("How old are you?")
+      alert("Oof, " + q1Response + " " + q2Response + " already? I'm sorry.");
+      
+      let q3Response = prompt("So, " + q1Response + " what is your current job?")
+      alert("So you're a/an " + q3Response + " huh, that sounds umm... very interesting and rewarding!");
+
+      let q4Response = prompt("Well " + q1Response + " what do you want to be when you grow up?")
+      alert("Wow, " + q1Response + " a/an " + q3Response + " that wants to be a " + q4Response + " at the ripe YOUNG age of " + q2Response + " that's pretty cool, I guess.");
+      
+    </script>
+  </body>
+</html>
