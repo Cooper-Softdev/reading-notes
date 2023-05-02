@@ -2,9 +2,9 @@
 
 ## Getting Started
 
-0. Understanding how the web works on a depper level is important for this module because have a strong foundational knowledge of what we're manipulating inside of our website and how it interacts with the web will ensure we don't fall behind and are able to connect different concepts together into a cohesive understanding.
+0. Understanding how the web works on a deeper level is important for this module because have a strong foundational knowledge of what we're manipulating inside of our website and how it interacts with the web will ensure we don't fall behind and are able to connect different concepts together into a cohesive understanding.
 
-1. Semantics are important for SEO, search engines look at specific places within the HTML and if you're page isn't formatted IAW industry standard you'r page will fall down in the search results. Another reason is screen readers for visually impared users. The ability to navigate a webpage for them is dependent on the HTML elements within the page being written semantically correct.
+1. Semantics are important for SEO, search engines look at specific places within the HTML and if you're page isn't formatted IAW industry standard you'r page will fall down in the search results. Another reason is screen readers for visually impaired users. The ability to navigate a webpage for them is dependent on the HTML elements within the page being written semantically correct.
 
 2. There are 6 levels of ```<h>``` in HTML. Starting with ```<h1>```, and ending with ```<h6>```.
 
@@ -26,13 +26,13 @@
      padding: 5px;
    }
 ```
-+ ```type``` is representing the selector. h2 is the selctor and it's specificity is ```<type>``` which is just below `class`.
++ ```type``` is representing the selector. h2 is the selector and it's specificity is ```<type>``` which is just below `class`.
 + The declaration components are ```color: black;``` and ```padding: 5px;```, the property, color or padding added with a value is called a declaration.
 +  ```color``` and ```padding``` by themselves are the properties, which must be assigned a value to be declared.
 
 ## Learn JS
 
-1. Datetypes enclosed in single quotes are ```strings```.
+1. Data types enclosed in single quotes are ```strings```.
 2. 4 types of JS operators are ```*```, ```-```, ```=```, and ```/```.
 3. A real world issue is doing math, you can use functions to take numbers as an input and then use a function to calculate them and return the value.
 
