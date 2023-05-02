@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-1.
+0. Understanding how the web works is important for this module because have a strong foundational knowledge of what we're manipulating inside of our website and how it interacts with the web will ensure we don't fall behind and are able to connect different concepts together into a cohesive understanding.
 
         HTTP, a link between two
         A bridge for data, through and through.
