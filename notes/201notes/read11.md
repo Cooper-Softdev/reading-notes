@@ -1,5 +1,7 @@
 #Class 11 Reading
 
+This is important for creating better responsive websites that are more modern and not so "GeoCities" or "MySpace" like.
+
 ## Audio Video
 
 1. The major shift from the early 2000s has been from proprietary video and audio formats with software that user may not have installed to widely adopted MP4 and and WebM have now become standard via the use of HTML5 on modern browsers without the need for plugins.
