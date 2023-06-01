@@ -44,7 +44,22 @@ This is a basic site with links to my reading notes on various subjects and the 
 
 ## Code 301 - Intermediate Software Development
 
-- ### **_Placeholder_**
+- [301 prereq notes][301/00]
+- [Class 01 notes][301/01]
+- [Class 02 notes][301/02]
+- [Class 03 notes][301/03]
+- [Class 04 notes][301/04]
+- [Class 05 notes][301/05]
+- [Class 06 notes][301/06]
+- [Class 07 notes][301/07]
+- [Class 08 notes][301/08]
+- [Class 09 notes][301/09]
+- [Class 10 notes][301/10]
+- [Class 11 notes][301/11]
+- [Class 12 notes][301/12]
+- [Class 13 notes][301/13]
+- [Class 14 notes][301/14]
+- [Class 15 notes][301/15]
 
 ## Code 401 - Advanced Software Development
 
@@ -74,3 +89,19 @@ This is a basic site with links to my reading notes on various subjects and the 
 [201/13]: notes/201notes/read13.md
 [201/14]: notes/201notes/read14.md
 [201/15]: notes/201notes/read15.md
+[301/00]: notes/301notes/prereq.md
+[301/01]: notes/301notes/read01.md
+[301/02]: notes/301notes/read02.md
+[301/03]: notes/301notes/read03.md
+[301/04]: notes/301notes/read04.md
+[301/05]: notes/301notes/read05.md
+[301/06]: notes/301notes/read06.md
+[301/07]: notes/301notes/read07.md
+[301/08]: notes/301notes/read08.md
+[301/09]: notes/301notes/read09.md
+[301/10]: notes/301notes/read10.md
+[301/11]: notes/301notes/read11.md
+[301/12]: notes/301notes/read12.md
+[301/13]: notes/301notes/read13.md
+[301/14]: notes/301notes/read14.md
+[301/15]: notes/301notes/read15.md
