@@ -89,7 +89,7 @@ This is a basic site with links to my reading notes on various subjects and the 
 [201/13]: notes/201notes/read13.md
 [201/14]: notes/201notes/read14.md
 [201/15]: notes/201notes/read15.md
-[301/00]: notes/301notes/prereq.md
+[301/00]: notes/301notes/read00.md
 [301/01]: notes/301notes/read01.md
 [301/02]: notes/301notes/read02.md
 [301/03]: notes/301notes/read03.md
