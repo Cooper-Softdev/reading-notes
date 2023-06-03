@@ -10,4 +10,8 @@
 6. Which direction does data flow in React? From parent element to child elements.
 7. Every component manages its own <u>state</u>.
 
+## Setup computer
+
+I've downloaded mongoDB and ran the tests. The eslintrc.json doesn't seem to be able to be removed. Trying to remove it gives an error that it doesn't exist. But I can read it in the file structure, it's definitely there.
+
 ## 
