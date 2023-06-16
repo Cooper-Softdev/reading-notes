@@ -3,13 +3,13 @@
 ## Understanding the JavaScript Call Stack
 
 1. What is a ‘call’?
-+ In JavaScript, a 'call' refers to the invocation of a function. When a function is called, it is added to the call stack and executed.
+    + In JavaScript, a 'call' refers to the invocation of a function. When a function is called, it is added to the call stack and executed.
 2. How many ‘calls’ can happen at once?
-+ The JavaScript call stack operates in a single-threaded manner, which means that only one function can be executed at a time. Therefore, only one call can happen at once.
+    + The JavaScript call stack operates in a single-threaded manner, which means that only one function can be executed at a time. Therefore,    only one call can happen at once.
 3. What does LIFO mean?
-+ LIFO stands for "Last-In, First-Out." In the context of the call stack, it means that the last function added to the stack is the first one to be executed and removed from the stack. It follows the principle of stacking elements on top of each other and removing them from the top.
+    + LIFO stands for "Last-In, First-Out." In the context of the call stack, it means that the last function added to the stack is the first one to be executed and removed from the stack. It follows the principle of stacking elements on top of each other and removing them from the top.
 4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
-+ <function firstFunction(){
+    + <function firstFunction(){
   throw new Error('Stack Trace Error');
 }
 
@@ -24,7 +24,7 @@ function thirdFunction(){
 thirdFunction();>
 
 5. What causes a Stack Overflow?
-+ A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accomodate before throwing a stack error.
+    + A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accomodate before throwing a stack error.
 
 
 ## JavaScript error messages
