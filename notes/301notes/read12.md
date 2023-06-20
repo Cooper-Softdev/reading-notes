@@ -1,6 +1,6 @@
 # Reading
 
-##Status Codes Based On REST Methods
+## Status Codes Based On REST Methods
 
 1. In your own words, describe what each group of status code represents:
 
