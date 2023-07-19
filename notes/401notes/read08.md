@@ -6,7 +6,7 @@
    I'll probably go back and fix it at some point for my portfolio.
 2. I would have to find a way to refactor the written code by abstracting it into functions or classes that can be called or imported in the case of react.
 
-## You aren't gonna need it
+## You aren't gonna need it & MVP benefits and pitfalls.
 
 1. Potential Benefits
    - Early feedback: With an MVP, you can get feedback from users early and use it to guide future development.
