@@ -2,7 +2,7 @@
 
 ## Stacks and Queues: Magic the Gathering and Dungeons and Dargoons.
 
-### Stacks
+## Stacks
 
 In Magic the Gathering, the stack is where spells and abilities are put when they are played and where they wait to resolve. 
 This is similar to a stack in programming. When you cast a spell in Magic, it goes on top of the stack. 
@@ -25,7 +25,7 @@ them punch cards looking for bits to put into their stupid little card game.
 So, in both Magic and programming, the last item added to the stack is the first one to be removed, 
 which is why we say stacks follow a "Last-In, First-Out" (LIFO) principle. Also be sure to Scry as often as possible.
 
-### Queues 
+## Queues 
 
 This one is a bit more difficult to explain via Magic, it would essentially just be a turn order. First players goes then the next and so on.
 
