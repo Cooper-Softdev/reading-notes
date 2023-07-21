@@ -13,8 +13,12 @@ When spells resolve in Magic, they do so from the top of the stack downwards.
 The last spell you cast is the first one to resolve. This is similar to the "pop" operation in a programming stack, 
 where items are removed from the top.
 
+When we do the "Peek" operation this is similar to the ability "Scrying" in MtG. This allows you to look at the top card of your library without drawing it.
+This is almost identical to the "peek" operation in the programming stack, where you can look at the top item without removing it. I bet they scried all over
+them punch cards looking for bits to put into their stupid little card game.
+
 So, in both Magic and programming, the last item added to the stack is the first one to be removed, 
-which is why we say stacks follow a "Last-In, First-Out" (LIFO) principle.
+which is why we say stacks follow a "Last-In, First-Out" (LIFO) principle. Also be sure to Scry as often as possible.
 
 ### Queues 
 
