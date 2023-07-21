@@ -31,3 +31,6 @@ to see who will go first, as well as the enemy combatants. This creates a queue 
     After they complete their turn, they are effectively removed from the front of the queue, and the character or creature 
     with the next highest initiative roll takes their turn. This is similar to the dequeue operation in a programming queue, 
     where items are removed from the front.
+
+So, in both D&D and programming, the first item added to the queue (the character or creature with the highest initiative roll) 
+is the first one to be removed (to take their turn), which is why we say queues follow a "First-In, First-Out" (FIFO) principle.
