@@ -23,7 +23,7 @@ them punch cards looking for bits to put into their stupid little card game.
 
 #### LIFO
 So, in both Magic and programming, the last item added to the stack is the first one to be removed, 
-which is why we say stacks follow a "Last-In, First-Out" (LIFO) principle. Also be sure to Scry as often as possible.
+therefore it is called the "Last-In, First-Out" (LIFO) principle. Also be sure to Scry as often as possible.
 
 ## Queues 
 
@@ -44,5 +44,5 @@ with the next highest initiative roll takes their turn. This is similar to the d
 where items are removed from the front.
 
 #### FIFO
-So, in both D&D and programming, the first item added to the queue (the character or creature with the highest initiative roll) 
-is the first one to be removed (to take their turn), which is why we say queues follow a "First-In, First-Out" (FIFO) principle.
+So, in both D&D (this time) and programming, the first item added to the queue (the character or creature with the highest initiative roll) 
+is the first one to be removed (to take their turn), because queues follow a "First-In, First-Out" (FIFO) principle.
