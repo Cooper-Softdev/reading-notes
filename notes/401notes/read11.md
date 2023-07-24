@@ -22,19 +22,19 @@
 
 What method allows for a variable defined in Java (in your Spring Controller) to be dispalyed in HTML with the help of Thymeleaf?
 - The method that allows for a variable defined in Java (in your Spring Controller) to be displayed in HTML with the help of Thymeleaf
-- is the addAttribute method of the Model class.
+is the addAttribute method of the Model class.
 
 Explain the role of a @Controller class in a Spring MVC application.
 - The role of a @Controller class in a Spring MVC application is to prepare a model map with data and select a view to be rendered.
-- This model map allows for the complete abstraction of the view technology and, in the case of Thymeleaf, it is transformed into a
-- Thymeleaf context object (part of the Thymeleaf template execution context) that makes all the defined variables available to expressions executed in templates.
+This model map allows for the complete abstraction of the view technology and, in the case of Thymeleaf, it is transformed into a
+Thymeleaf context object (part of the Thymeleaf template execution context) that makes all the defined variables available to expressions executed in templates.
 
 What is a model attribute refered to in Thymeleaf?
 - A model attribute referred to in Thymeleaf is a piece of data that can be accessed during the execution of views.
-- The equivalent term in Thymeleaf language is context variables. There are several ways of adding model attributes to a view in Spring MVC.
-- In Thymeleaf, these model attributes (or context variables in Thymeleaf jargon) can be accessed with the following syntax: ${attributeName},
-- where attributeName in our case is messages. This is a Spring EL expression. In short, Spring EL (Spring Expression Language) is a language
-- that supports querying and manipulating an object graph at runtime.
+The equivalent term in Thymeleaf language is context variables. There are several ways of adding model attributes to a view in Spring MVC.
+In Thymeleaf, these model attributes (or context variables in Thymeleaf jargon) can be accessed with the following syntax: ${attributeName},
+where attributeName in our case is messages. This is a Spring EL expression. In short, Spring EL (Spring Expression Language) is a language
+that supports querying and manipulating an object graph at runtime.
 
 ### Would you like to know more?
 
