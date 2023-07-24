@@ -4,13 +4,13 @@
 
 1. What role do the @Controller classes play in a Spring MVC application?
 - In a Spring MVC application, @Controller classes play a crucial role in handling incoming HTTP requests and returning responses.
-- They are responsible for processing the data, applying business logic, and returning the appropriate view to the client.
-- The @Controller annotation is used to mark a class as a web request handler.
+They are responsible for processing the data, applying business logic, and returning the appropriate view to the client.
+The @Controller annotation is used to mark a class as a web request handler.
 
 2. Explain to a non-technical friend what a GET request is.
 - Imagine you're at a restaurant and you want to see the menu, you'd have to ask the waiter. This is similar to a GET request.
-- Your browser sends a GET request to a website's server (the waiter) asking for a specific webpage (the menu).
-- The server then responds by sending back the webpage you asked for.
+Your browser sends a GET request to a website's server (the waiter) asking for a specific webpage (the menu).
+The server then responds by sending back the webpage you asked for.
 
 3. What annotation should be placed on your Spring Boot application class?
 - The @SpringBootApplication annotation should be placed on your Spring Boot application class. This is a convenience annotation that adds all of the following:
