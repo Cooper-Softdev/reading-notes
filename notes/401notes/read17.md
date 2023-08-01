@@ -11,8 +11,8 @@ in using their existing accounts on these trusted services.
 
 ## The link covers the following differen't types or popular OAuths.
 
-Google
-Facebook
-GitHub
-Okta
-UAA
+- Google
+- Facebook
+- GitHub
+- Okta
+- UAA
