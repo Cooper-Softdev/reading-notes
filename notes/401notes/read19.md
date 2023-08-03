@@ -34,4 +34,4 @@ String line = reader.readLine();
 
 3. How do you think purely functional programming will differ from the programs you’ve written so far in this course?
 
-        Since this seems like some long extinct advanced alien tech, I'm going to guess, lots.
+   Since this seems like some long extinct advanced alien tech, I'm going to guess, lots.
