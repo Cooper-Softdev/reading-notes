@@ -9,6 +9,6 @@
 
 -   I haven't finished the lab yet so I can't put a screenshot in.
 
--   ### Would you like to know more?
+### Would you like to know more?
 
 -   My understanding of this is super abstract at this point. I'll have to use android studio a bit more before it clicks.
