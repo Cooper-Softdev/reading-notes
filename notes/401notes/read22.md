@@ -7,7 +7,7 @@
 -   It recycles the individual elements so when an items scrolls off the screen, the item isn't destroyed, instead it reuses it for new items that have scrolled onto the screen. This improves performance and responsiveness while reducing battery consumption.
 -   Provides flexible layouts such as linear lists, staggered or regular grids. This is handled by layout managers that take care of the arrangement of individual items.
 
--   I haven't finished the lab yet so I can't put a screenshot in.
+I haven't finished the lab yet so I can't put a screenshot in.
 
 ### Would you like to know more?
 
