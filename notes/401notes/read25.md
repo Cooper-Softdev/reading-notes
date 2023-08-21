@@ -27,11 +27,11 @@
 ### Describe Serverless to a 301 student
 
   Serverless isn't really "server-less" its more like "NonDedicated Server"...
-    So you've made your react app, it's on netlify and you have a mongoDB connected to it. All of a sudden your app becomes insanely popular.
-    That netlify hosting service is going to crash and start sending out 404s because of all the traffic it can't handle, you haven't built
-    server scaling into your back-end. Scaling is a huge endeavor that the smart people at amazon, microsoft, and IBM have figured out and can
-    do that for you for a small fee. So if you've deployed your mongoDB and Netlify and then transfer that into AWS, Azure, Google or IBM services
-    you can let your app scale as much as it wants because they have the overhead and servers all over the world to push your backend logic or the
-    database data to the user. You get charged for the actual usage not the idle time of the server because it sits in a low power state if it gets no
-    requests, then spins up quickly and starts working immediately. All those weird edge cases in server management get accounted for under the hood 
-    at whatever platform you chooe to use and your users get a better user experience because they've got no delays or weird quirks when using your app.
+  So you've made your react app, it's on netlify and you have a mongoDB connected to it. All of a sudden your app becomes insanely popular.
+  That netlify hosting service is going to crash and start sending out 404s because of all the traffic it can't handle, you haven't built
+  server scaling into your back-end. Scaling is a huge endeavor that the smart people at amazon, microsoft, and IBM have figured out and can
+  do that for you for a small fee. So if you've deployed your mongoDB and Netlify and then transfer that into AWS, Azure, Google or IBM services
+  you can let your app scale as much as it wants because they have the overhead and servers all over the world to push your backend logic or the
+  database data to the user. You get charged for the actual usage not the idle time of the server because it sits in a low power state if it gets no
+  requests, then spins up quickly and starts working immediately. All those weird edge cases in server management get accounted for under the hood 
+  at whatever platform you chooe to use and your users get a better user experience because they've got no delays or weird quirks when using your app.
