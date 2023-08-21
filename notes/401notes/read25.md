@@ -26,7 +26,7 @@
 
 ### Describe Serverless to a 301 student
 
-    Serverless isn't really "server-less" its more like "NonDedicated Server"...
+  Serverless isn't really "server-less" its more like "NonDedicated Server"...
     So you've made your react app, it's on netlify and you have a mongoDB connected to it. All of a sudden your app becomes insanely popular.
     That netlify hosting service is going to crash and start sending out 404s because of all the traffic it can't handle, you haven't built
     server scaling into your back-end. Scaling is a huge endeavor that the smart people at amazon, microsoft, and IBM have figured out and can
