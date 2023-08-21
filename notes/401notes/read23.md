@@ -1,6 +1,6 @@
 # Reading
 
-## Rooms, ft. your mom's
+## Rooms
 
 1. What database engine is Room wrapped around? Do you think this is a good choice? Why or why not?
    - Room is wrapped around SQLite.
